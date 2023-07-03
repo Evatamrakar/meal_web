@@ -12,11 +12,12 @@
       </SfLink>
     </div>
     <div class="">
-      <SfLink href="#" variant="secondary" class="no-underline text-black "> {{ product.strMeal }} </SfLink>
+      <SfLink href="#" variant="secondary" class="no-underline text-black"> {{ product.strMeal }} </SfLink>
       <div class="flex items-center pt-1">
       </div>
     </div>
-  </div>
+    </div>
+
 </template>
 
 <script setup>
