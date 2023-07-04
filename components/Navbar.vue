@@ -16,11 +16,6 @@
       <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg  md:flex-row md:space-x-8 md:mt-0 md:border-0">
 
         <li>
-          <NuxtLink to="/search" class="block py-2 pl-3 pr-4 text-black backk rounded md:bg-transparent
-          md:text-black md:p-0 md:dark:text-black dark:bg-blue-600 md:dark:bg-transparent" aria-current="page">Search</NuxtLink>
-        </li>
-
-        <li>
           <NuxtLink to="/products" class="block py-2 pl-3 pr-4 text-black backk rounded md:bg-transparent
           md:text-black md:p-0 md:dark:text-black dark:bg-blue-600 md:dark:bg-transparent" aria-current="page">Recipes</NuxtLink>
         </li>
